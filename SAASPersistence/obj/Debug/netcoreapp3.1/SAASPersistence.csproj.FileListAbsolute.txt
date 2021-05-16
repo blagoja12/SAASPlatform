@@ -1,0 +1,12 @@
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\bin\Debug\netcoreapp3.1\SAASPersistence.deps.json
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\bin\Debug\netcoreapp3.1\SAASPersistence.dll
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\bin\Debug\netcoreapp3.1\SAASPersistence.pdb
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\bin\Debug\netcoreapp3.1\SAASDomain.dll
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\bin\Debug\netcoreapp3.1\SAASDomain.pdb
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\obj\Debug\netcoreapp3.1\SAASPersistence.csprojAssemblyReference.cache
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\obj\Debug\netcoreapp3.1\SAASPersistence.AssemblyInfoInputs.cache
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\obj\Debug\netcoreapp3.1\SAASPersistence.AssemblyInfo.cs
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\obj\Debug\netcoreapp3.1\SAASPersistence.csproj.CoreCompileInputs.cache
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\obj\Debug\netcoreapp3.1\SAASPersistence.csproj.CopyComplete
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\obj\Debug\netcoreapp3.1\SAASPersistence.dll
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASPersistence\obj\Debug\netcoreapp3.1\SAASPersistence.pdb

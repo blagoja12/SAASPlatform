@@ -1,0 +1,315 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPlatform\\SAASPlatform.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASDomain\\SAASDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASDomain\\SAASDomain.csproj",
+        "projectName": "SAASDomain",
+        "projectPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASDomain\\SAASDomain.csproj",
+        "packagesPath": "C:\\Users\\blagoj.kojchev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\blagoj.kojchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.allocate-cloud.co.uk/repository/allocate-nuget-releases/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASLogic\\SAASLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASLogic\\SAASLogic.csproj",
+        "projectName": "SAASLogic",
+        "projectPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASLogic\\SAASLogic.csproj",
+        "packagesPath": "C:\\Users\\blagoj.kojchev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\blagoj.kojchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.allocate-cloud.co.uk/repository/allocate-nuget-releases/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASDomain\\SAASDomain.csproj": {
+                "projectPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASDomain\\SAASDomain.csproj"
+              },
+              "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPersistence\\SAASPersistence.csproj": {
+                "projectPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPersistence\\SAASPersistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPersistence\\SAASPersistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPersistence\\SAASPersistence.csproj",
+        "projectName": "SAASPersistence",
+        "projectPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPersistence\\SAASPersistence.csproj",
+        "packagesPath": "C:\\Users\\blagoj.kojchev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPersistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\blagoj.kojchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.allocate-cloud.co.uk/repository/allocate-nuget-releases/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASDomain\\SAASDomain.csproj": {
+                "projectPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASDomain\\SAASDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPlatform\\SAASPlatform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPlatform\\SAASPlatform.csproj",
+        "projectName": "SAASPlatform",
+        "projectPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPlatform\\SAASPlatform.csproj",
+        "packagesPath": "C:\\Users\\blagoj.kojchev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPlatform\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\blagoj.kojchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.allocate-cloud.co.uk/repository/allocate-nuget-releases/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASLogic\\SAASLogic.csproj": {
+                "projectPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASLogic\\SAASLogic.csproj"
+              },
+              "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPersistence\\SAASPersistence.csproj": {
+                "projectPath": "C:\\Users\\blagoj.kojchev\\Desktop\\New folder (4)\\SAASPlatform-master\\SAASPersistence\\SAASPersistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0-preview.3.21201.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

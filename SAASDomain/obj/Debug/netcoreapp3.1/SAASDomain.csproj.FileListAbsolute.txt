@@ -1,0 +1,8 @@
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASDomain\bin\Debug\netcoreapp3.1\SAASDomain.deps.json
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASDomain\bin\Debug\netcoreapp3.1\SAASDomain.dll
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASDomain\bin\Debug\netcoreapp3.1\SAASDomain.pdb
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASDomain\obj\Debug\netcoreapp3.1\SAASDomain.AssemblyInfoInputs.cache
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASDomain\obj\Debug\netcoreapp3.1\SAASDomain.AssemblyInfo.cs
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASDomain\obj\Debug\netcoreapp3.1\SAASDomain.csproj.CoreCompileInputs.cache
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASDomain\obj\Debug\netcoreapp3.1\SAASDomain.dll
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASDomain\obj\Debug\netcoreapp3.1\SAASDomain.pdb

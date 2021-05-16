@@ -1,0 +1,14 @@
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\bin\Debug\netcoreapp3.1\SAASLogic.deps.json
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\bin\Debug\netcoreapp3.1\SAASLogic.dll
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\obj\Debug\netcoreapp3.1\SAASLogic.csprojAssemblyReference.cache
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\obj\Debug\netcoreapp3.1\SAASLogic.AssemblyInfoInputs.cache
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\obj\Debug\netcoreapp3.1\SAASLogic.AssemblyInfo.cs
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\bin\Debug\netcoreapp3.1\SAASLogic.pdb
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\bin\Debug\netcoreapp3.1\SAASDomain.dll
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\bin\Debug\netcoreapp3.1\SAASPersistence.dll
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\bin\Debug\netcoreapp3.1\SAASDomain.pdb
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\bin\Debug\netcoreapp3.1\SAASPersistence.pdb
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\obj\Debug\netcoreapp3.1\SAASLogic.csproj.CopyComplete
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\obj\Debug\netcoreapp3.1\SAASLogic.dll
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\obj\Debug\netcoreapp3.1\SAASLogic.pdb
+C:\Users\blagoj.kojchev\Desktop\New folder (4)\SAASPlatform-master\SAASLogic\obj\Debug\netcoreapp3.1\SAASLogic.csproj.CoreCompileInputs.cache
